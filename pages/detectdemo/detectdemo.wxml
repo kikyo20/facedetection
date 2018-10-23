@@ -1,5 +1,0 @@
-<!--pages/detectdemo/detectdemo.wxml-->
-<view bindtap="facedetect">
-  <button>人脸检测</button>
-  <!-- <image src="{{imgsrc}}"></image> -->
-</view>

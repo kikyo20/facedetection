@@ -1,7 +1,0 @@
-<!--pages/facedatabase/faceregister/faceregister.wxml-->
-<view bindtap="faceregister">
-  <button>人脸注册</button>
-</view>
-<view bindtap="faceregisterbase">
-  <button>人脸注册base</button>
-</view>

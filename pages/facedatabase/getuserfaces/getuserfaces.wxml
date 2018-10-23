@@ -1,6 +1,0 @@
-<!--pages/facedatabase/getuserfaces/getuserfaces.wxml-->
-<view bindtap="getuserfaces">
-  <button >
-    获取用户人脸列表
-  </button>
-</view>

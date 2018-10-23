@@ -1,4 +1,0 @@
-<!--pages/facedatabase/delface/delface.wxml-->
-<view bindtap="faceregister">
-  <button>人脸删除</button>
-</view>
